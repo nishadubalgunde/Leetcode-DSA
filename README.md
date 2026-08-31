@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0015-3sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0976-largest-perimeter-triangle](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
