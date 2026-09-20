@@ -23,6 +23,7 @@ Solutions are continuously updated as I improve my approach and understanding.
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0018-4sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -36,6 +37,7 @@ Solutions are continuously updated as I improve my approach and understanding.
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0018-4sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -45,4 +47,8 @@ Solutions are continuously updated as I improve my approach and understanding.
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
