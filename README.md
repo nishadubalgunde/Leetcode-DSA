@@ -24,6 +24,7 @@ Solutions are continuously updated as I improve my approach and understanding.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -33,6 +34,7 @@ Solutions are continuously updated as I improve my approach and understanding.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sorting
 |  |
@@ -51,4 +53,5 @@ Solutions are continuously updated as I improve my approach and understanding.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
