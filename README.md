@@ -54,4 +54,8 @@ Solutions are continuously updated as I improve my approach and understanding.
 | ------- |
 | [0018-4sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
