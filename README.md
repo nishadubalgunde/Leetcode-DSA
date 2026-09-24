@@ -58,4 +58,12 @@ Solutions are continuously updated as I improve my approach and understanding.
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0178-rank-scores) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
