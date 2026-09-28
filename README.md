@@ -68,4 +68,16 @@ Solutions are continuously updated as I improve my approach and understanding.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
