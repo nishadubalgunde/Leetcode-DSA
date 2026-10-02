@@ -23,6 +23,7 @@ Solutions are continuously updated as I improve my approach and understanding.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -34,6 +35,7 @@ Solutions are continuously updated as I improve my approach and understanding.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sorting
@@ -82,4 +84,8 @@ Solutions are continuously updated as I improve my approach and understanding.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nishadubalgunde/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
